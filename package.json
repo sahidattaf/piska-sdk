@@ -1,0 +1,11 @@
+{
+  "name": "@sahidattaf/piska-sdk",
+  "version": "1.0.0",
+  "description": "AI + Blockchain SDK for tokenized real estate",
+  "main": "index.js",
+  "author": "Sahid Attaf",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
