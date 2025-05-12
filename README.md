@@ -2,16 +2,15 @@
 
 > Bridging Real Estate & Blockchain with AI tooling and decentralized infrastructure.
 
-![npm](https://img.shields.io/npm/v/@sahidattaf/piska-sdk?style=for-the-badge)
-![license](https://img.shields.io/npm/l/@sahidattaf/piska-sdk?style=for-the-badge)
-![GitHub Package](https://img.shields.io/badge/GitHub%20Package-published-success?style=for-the-badge&logo=github)
+[![npm version](https://img.shields.io/npm/v/@sahidattaf/piska-sdk?style=for-the-badge)](https://www.npmjs.com/package/@sahidattaf/piska-sdk)
+[![license](https://img.shields.io/npm/l/@sahidattaf/piska-sdk?style=for-the-badge)](./LICENSE)
+[![GitHub Package](https://img.shields.io/badge/GitHub%20Package-published-success?style=for-the-badge&logo=github)](https://github.com/sahidattaf/piska-sdk/packages)
 
 ---
 
 ## 📦 Installation
 
-To install from **GitHub Packages**:
-
+Install from **GitHub Packages**:
 ```bash
 npm install @sahidattaf/piska-sdk --registry=https://npm.pkg.github.com
 ```
